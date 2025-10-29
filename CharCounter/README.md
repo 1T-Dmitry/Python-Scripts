@@ -1,0 +1,1 @@
+Enter a number and you will see how many characters are in the word.
